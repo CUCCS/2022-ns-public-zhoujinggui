@@ -13,7 +13,7 @@
 - VirtualBox 虚拟机
 - 攻击者主机（Attacker）：Kali Rolling 2019.2
 - 网关（Gateway, GW）：Debian Buster
-- 靶机（Victim）：From Sqli to shell / xp-sp3 / Kali
+- 靶机（Victim）：From Sqli to shell / xp-sp3 / Kali  
 
 ## 实验要求
 
